@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yenaro or Diegoo11</h1>
-<h3 align="center">Ingeniero de sistemas en constante aprendizaje y apasionado del desarrollo de software.Comprometido en convertir ideas en código y construir soluciones significativas.</h3>
+<h3 align="center">Systems engineer in the process of learning and passionate about software development. I love turning ideas into code and building solutions that make a difference.</h3>
 
 - 🌱 I’m currently learning **Java, Python, GraphQl, React Query**
 
