@@ -18,14 +18,14 @@
 
 <h3 align="left">New Year's resolutions (12/07/2023 - 31/12/2023):</h3>
 
-<h2 align="left">📕 Books:</h2>
+<h4 align="left">📕 Books:</h4>
 - ⏳ Aprendiendo Git by Miguel Ángel Durán
 
 - ⏳ You Don't Know Js by Kyle Simpson
 
 - ⏳ Learning Patterns by Lydia Hallie and Addy Osmani 
 
-<h2 align="left">🤖 Frameworks and others:</h2>
+<h4 align="left">🤖 Frameworks and others:</h4>
 - ⏳ GraphQL with Apollo...
 
 - ⏳ Next.js
@@ -44,7 +44,7 @@
 
 - ⏳ Introduction to Electron and React Native
 
-<h2 align="left">🎏 Projects:</h2>
+<h4 align="left">🎏 Projects:</h4>
 - ⏳ First-page
 
 - ⏳ New personal page
