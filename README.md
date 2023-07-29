@@ -48,7 +48,11 @@
 
 <h4 align="left">🎏 Projects:</h4>
 
-- ⏳ First-page
+- ✅ First-page
+
+- ⏳ First-page-backEnd
+
+- ⏳ First-page-adminPage
 
 - ⏳ New personal page
 
