@@ -50,9 +50,9 @@
 
 - ✅ First-page
 
-- ⏳ First-page-backEnd
+- ✅ First-page-backEnd
 
-- ⏳ First-page-adminPage
+- ✅ First-page-adminPage
 
 - ⏳ New personal page
 
