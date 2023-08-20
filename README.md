@@ -32,7 +32,7 @@
 
 - ⏳ Next.js
 
-- ⏳ Tailwind
+- ✅ Tailwind
 
 - ✅ Material UI
 
