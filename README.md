@@ -56,7 +56,7 @@
 
 - ⏳ New personal page
 
-- ⏳ Live response with subcriptions
+- ✅ [Live response with subcriptions](https://tic-tac-toe-online-five.vercel.app/play)
 
 <h4 align ="left">💭 Unplanned Projects</h4>
 
