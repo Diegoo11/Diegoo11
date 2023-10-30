@@ -30,7 +30,7 @@
 
 - ✅ GraphQL with Apollo...
 
-- ⏳ Next.js
+- ✅ Next.js
 
 - ✅ Tailwind
 
