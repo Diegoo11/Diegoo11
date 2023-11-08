@@ -22,7 +22,7 @@
 
 - ✅ Aprendiendo Git by Miguel Ángel Durán
 
-- ⏳ You Don't Know Js by Kyle Simpson
+- ✅ You Don't Know Js by Kyle Simpson
 
 - ⏳ Learning Patterns by Lydia Hallie and Addy Osmani 
 
@@ -36,7 +36,7 @@
 
 - ✅ Material UI
 
-- ⏳ MySQL
+- ✅ MySQL
 
 - ⏳ Vercel AI SDK
 
