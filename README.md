@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yenaro or Diegoo11</h1>
 <h3 align="center">"A future engineer determined to demonstrate what he is capable of."</h3>
 
-- 🔭 I’m currently working on [FirstPage](https://first-page-seven.vercel.app/) (finished)
-
 - 🌱 I’m currently learning **Java, Python, GraphQl, Tailwind, Next.js and Deno**
 
 - 💬 Ask me about **React, Nodejs**
