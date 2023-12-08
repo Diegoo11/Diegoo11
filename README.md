@@ -38,7 +38,7 @@
 
 - ⏳ Vercel AI SDK
 
-- ⏳ Astro
+- ✅ Astro
 
 - ⏳ Linux from terminal
 
@@ -52,7 +52,7 @@
 
 - ✅ [First-page-backEnd](https://first-page-backend-production.up.railway.app/)
 
-- ⏳ New personal page
+- ✅ [New personal page](https://portafolio-lovat-five.vercel.app/)
 
 - ✅ [Live response with subcriptions](https://tic-tac-toe-online-five.vercel.app/play)
 
