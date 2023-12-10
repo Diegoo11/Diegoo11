@@ -36,13 +36,13 @@
 
 - ✅ MySQL
 
-- ⏳ Vercel AI SDK
+- 🟡 Vercel AI SDK
 
 - ✅ Astro
 
 - ⏳ Linux from terminal
 
-- ⏳ Introduction to Electron and React Native
+- 🟡 Introduction to Electron and React Native
 
 <h4 align="left">🎏 Projects:</h4>
 
