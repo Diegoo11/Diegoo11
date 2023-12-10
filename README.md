@@ -36,7 +36,7 @@
 
 - ✅ MySQL
 
-- 🟡 Vercel AI SDK
+- ✅ Vercel AI SDK
 
 - ✅ Astro
 
