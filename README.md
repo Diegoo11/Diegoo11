@@ -1,66 +1,74 @@
 <h1 align="center">Hi 👋, I'm Yenaro or Diegoo11</h1>
 <h3 align="center">"A future engineer determined to demonstrate what he is capable of."</h3>
 
-- 🌱 I’m currently learning **Java, Python, GraphQl, Tailwind, Next.js and Deno**
+# 💫 About Me:
+🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning Go, python, TypeScript<br>💬 Ask me about Node.js, React, Java, Astro, Next.js<br>⚡ Fun fact I'm a second year student
 
-- 💬 Ask me about **React, Nodejs**
 
-- 📫 How to reach me **ynoacamino@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ynoacamino) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ynoacamino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ynoacamino" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ynoacamino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ynoacamino" height="30" width="40" /></a>
-<a href="https://discord.gg/Diegoo11#3885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Diegoo11#3885" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ynoacamino&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ynoacamino&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">New Year's resolutions (12/07/2023 - 31/12/2023):</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ynoacamino&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
+<h3 align="left">New Year's resolutions (01/01/2024 - 31/12/2024):</h3>
 
 <h4 align="left">📕 Books:</h4>
 
-- ✅ Aprendiendo Git by Miguel Ángel Durán
+- ⏳ You Don't Know Js by Kyle Simpson: Async and Performance
 
-- ✅ You Don't Know Js by Kyle Simpson
+- ⏳ Learning Patterns by Lydia Hallie and Addy Osmani and online guide
 
-- ❌ Learning Patterns by Lydia Hallie and Addy Osmani 
+- ⏳ Clean Code JavaScript
+  
+<h4 align="left">🤖 New languages:</h4>
+
+- ⏳ Go
+
+- ⏳ Python
+
+- ⏳ TypeScript
+
+- ⏳ Java
 
 <h4 align="left">🤖 Frameworks and others:</h4>
 
-- ✅ GraphQL with Apollo...
+- ⏳ StoryBook
 
-- ✅ Next.js
+- ⏳ shadcn/ui
 
-- ✅ Tailwind
+- ⏳ Backend for Frontend
 
-- ✅ Material UI
+- ⏳ TCRP
 
-- ✅ MySQL
+- ⏳ Nestjs
 
-- ✅ Vercel AI SDK
+- ⏳ Django
 
-- ✅ Astro
+- ⏳ API REST and GraphQL in Go
 
-- ✅ Linux from terminal
+- ⏳ Testing with jest and vitetest
 
-- ❌ Introduction to Electron and React Native
+- ⏳ AWS EC2, S3, lambda, cloudfront
+
+- ⏳ SQLite, PostgreSQL
+
+- ⏳ Prisma
+
+- ⏳ Spring API REST and GraphQL
 
 <h4 align="left">🎏 Projects:</h4>
 
-- ✅ [First-page](https://first-page-seven.vercel.app/)
+- ⏳ Make my components library
 
-- ✅ [First-page-adminPage](https://first-page-admin-page.vercel.app/)
-
-- ✅ [First-page-backEnd](https://first-page-backend-production.up.railway.app/)
-
-- ✅ [New personal page](https://portafolio-lovat-five.vercel.app/)
-
-- ✅ [Live response with subcriptions](https://tic-tac-toe-online-five.vercel.app/play)
+- ⏳ New briefcase
 
 <h4 align ="left">💭 Unplanned Projects</h4>
 
-- ✅ [miniBook 'AboutGit'](https://drive.google.com/file/d/10yGL3_BvzazRlDXqBc37YW3_yrImWvOy/view?usp=sharing)
-- ✅ AdventJs
-- ❌ Advent Code
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- ⏳ Find a job
