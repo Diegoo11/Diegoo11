@@ -25,15 +25,15 @@
 
 - ⏳ Learning Patterns by Lydia Hallie and Addy Osmani and online guide
 
-- ⏳ Clean Code JavaScript
+- ✅ Clean Code JavaScript
   
 <h4 align="left">🤖 New languages:</h4>
 
-- ⏳ Go
+- ✅ Go
 
 - ⏳ Python
 
-- ⏳ TypeScript
+- ✅ TypeScript
 
 - ⏳ Java
 
@@ -51,7 +51,7 @@
 
 - ⏳ Django
 
-- ⏳ API REST and GraphQL in Go
+- ✅ API REST and GraphQL in Go
 
 - ⏳ Testing with jest and vitetest
 
@@ -72,3 +72,5 @@
 <h4 align ="left">💭 Unplanned Projects</h4>
 
 - ⏳ Find a job
+
+- ✅ [File upload service](https://noa-upload-page.vercel.app/)
