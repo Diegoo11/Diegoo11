@@ -23,7 +23,7 @@
 
 - ⏳ You Don't Know Js by Kyle Simpson: Async and Performance
 
-- ⏳ Learning Patterns by Lydia Hallie and Addy Osmani and online guide
+- 🚧 Learning Patterns by Lydia Hallie and Addy Osmani and online guide
 
 - ✅ Clean Code JavaScript
   
@@ -31,11 +31,11 @@
 
 - ✅ Go
 
-- ⏳ Python
+- 🚧 Python
 
 - ✅ TypeScript
 
-- ⏳ Java
+- 🚧 Java
 
 <h4 align="left">🤖 Frameworks and others:</h4>
 
@@ -43,34 +43,34 @@
 
 - ⏳ shadcn/ui
 
-- ⏳ Backend for Frontend
+- 🚧 Backend for Frontend
 
-- ⏳ TCRP
+- 🚧 TCRP
 
 - ⏳ Nestjs
 
-- ⏳ Django
+- 🚧 Django
 
 - ✅ API REST and GraphQL in Go
 
-- ⏳ Testing with jest and vitetest
+- 🚧 Testing with jest and vitetest
 
-- ⏳ AWS EC2, S3, lambda, cloudfront
+- 🚧 AWS EC2, S3, lambda, cloudfront
 
 - ⏳ SQLite, PostgreSQL
 
 - ⏳ Prisma
 
-- ⏳ Spring API REST and GraphQL
+- 🚧 Spring API REST and GraphQL
 
 <h4 align="left">🎏 Projects:</h4>
 
-- ⏳ Make my components library
+- 🚧 Make my components library
 
-- ⏳ New briefcase
+- 🚧 New briefcase
 
 <h4 align ="left">💭 Unplanned Projects</h4>
 
-- ⏳ Find a job
+- 🚧 Find a job
 
 - ✅ [File upload service](https://noa-upload-page.vercel.app/)
