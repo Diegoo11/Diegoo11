@@ -41,7 +41,7 @@
 
 - ⏳ StoryBook
 
-- ⏳ shadcn/ui
+- ✅ shadcn/ui
 
 - 🚧 Backend for Frontend
 
@@ -59,13 +59,13 @@
 
 - ⏳ SQLite, PostgreSQL
 
-- ⏳ Prisma
+- ✅ Prisma
 
 - 🚧 Spring API REST and GraphQL
 
 <h4 align="left">🎏 Projects:</h4>
 
-- 🚧 Make my components library
+- ✅ Make my components library
 
 - 🚧 New briefcase
 
