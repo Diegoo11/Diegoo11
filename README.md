@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yenaro or Diegoo11</h1>
+<h1 align="center">Hi 👋, I'm Yenaro or @ynoacamino</h1>
 <h3 align="center">"A future engineer determined to demonstrate what he is capable of."</h3>
 
 # 💫 About Me:
