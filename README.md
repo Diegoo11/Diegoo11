@@ -45,9 +45,9 @@
 
 - 🚧 Backend for Frontend
 
-- 🚧 TCRP
+- ✅ TCRP
 
-- ⏳ Nestjs
+- ✅ Nestjs
 
 - 🚧 Django
 
