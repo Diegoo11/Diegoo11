@@ -49,15 +49,15 @@
 
 - ✅ Nestjs
 
-- 🚧 Django
+- 🤮 Django 🤮
 
 - ✅ API REST and GraphQL in Go
 
 - 🚧 Testing with jest and vitetest
 
-- 🚧 AWS EC2, S3, lambda, cloudfront
+- ✅ AWS EC2, S3, lambda, cloudfront / R2 cloudflare, VPS oracle cloud
 
-- ⏳ SQLite, PostgreSQL
+- ✅ SQLite, PostgreSQL, ===> SQLC (go)
 
 - ✅ Prisma
 
