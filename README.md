@@ -45,7 +45,11 @@
 
 - 🚧 Backend for Frontend
 
-- ✅ TCRP
+- ✅ TRPC
+
+- ✅ GRPC
+
+- ✅ Microservicios
 
 - ✅ Nestjs
 
