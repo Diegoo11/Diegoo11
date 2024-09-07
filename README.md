@@ -51,6 +51,10 @@
 
 - ✅ Microservicios
 
+- ✅ Docker, Docker compose
+
+- ✅ Nginx
+
 - ✅ Nestjs
 
 - 🤮 Django 🤮
