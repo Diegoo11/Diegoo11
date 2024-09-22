@@ -2,7 +2,7 @@
 <h3 align="center">"A future engineer determined to demonstrate what he is capable of."</h3>
 
 # 💫 About Me:
-🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning Go, python, TypeScript<br>💬 Ask me about Node.js, React, Java, Astro, Next.js<br>⚡ Fun fact I'm a second year student <br> 😎 My personal page [ynoacamino.site](ynoacamino.site)
+🤝 I’m looking for help with TypeScript<br>🌱 I’m currently learning Go, python, TypeScript<br>💬 Ask me about Node.js, React, Java, Astro, Next.js<br>⚡ Fun fact I'm a second year student <br> 😎 My personal page [ynoacamino.site](https://ynoacamino.site)
 
 
 ## 🌐 Socials:
